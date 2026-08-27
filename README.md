@@ -12,17 +12,17 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify"  />
-  <img src="https://api.iconify.design/devicon:quasar.svg" height="40" alt="quasar"  />
+  <img src="https://api.iconify.design/devicon:quasar.svg?height=40" height="40" alt="quasar"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass"  />
-  <img src="https://api.iconify.design/logos:pinia.svg" height="40" alt="pinia"  />
-  <img src="https://api.iconify.design/material-icon-theme:vuex-store.svg" height="40" alt="vuex"  />
-  <img src="https://api.iconify.design/skill-icons:vitest-light.svg" height="40" alt="vitest"  />
-  <img src="https://api.iconify.design/devicon:storybook.svg" height="40" alt="storybook"  />
-  <img src="https://api.iconify.design/skill-icons:vite-light.svg" height="40" alt="vite"  />
+  <img src="https://api.iconify.design/logos:pinia.svg?height=40" height="40" alt="pinia"  />
+  <img src="https://api.iconify.design/material-icon-theme:vuex-store.svg?height=40" height="40" alt="vuex"  />
+  <img src="https://api.iconify.design/skill-icons:vitest-light.svg?height=40" height="40" alt="vitest"  />
+  <img src="https://api.iconify.design/devicon:storybook.svg?height=40" height="40" alt="storybook"  />
+  <img src="https://api.iconify.design/skill-icons:vite-light.svg?height=40" height="40" alt="vite"  />
 </p>
 
 ---
